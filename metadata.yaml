@@ -1,0 +1,38 @@
+_repo: Outposts-of-Asia_69407
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Norton, Morilla Maria
+    alias: Norton, M. M. (Morilla Maria)
+    birthdate: 1865
+    gutenberg_agent_id: '55203'
+    url: http://www.gutenberg.org/2009/agents/55203
+description: ''
+gutenberg_issued: '2022-11-22'
+identifiers:
+  gutenberg: '69407'
+  lccn: '50042076'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=coo1.ark:/13960/t4vh63z78&view=1up&seq=5&skin=2021
+pgterms:marc905: 20220807170232norton
+pgterms:marc906: '1909'
+pgterms:marc907: ph
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: 'Philippines: The Magnet Publishing Co.,1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Japan -- Description and travel'
+- !lcsh 'Philippines -- Description and travel'
+- !lcsh 'Korea -- Description and travel'
+- !lcsh 'Manchuria (China) -- Description and travel'
+- !lcc 'DS'
+- GITenberg
+tableOfContents: Port Arthur -- Moukden -- Manchuria -- Seoul -- Japanese in Korea
+  -- Tokyo and its mayor -- Japanese railways -- Madame Shimoda -- Peeress' School
+  -- Kaneko -- Exposition notes -- Baron Takahashi -- Tokyo Observatory -- Government
+  Steel Foundry -- Japan in November -- Manila and the Philippines.
+title: Outposts of Asia
+url: http://www.gutenberg.org/ebooks/69407
